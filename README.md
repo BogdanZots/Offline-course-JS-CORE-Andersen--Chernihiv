@@ -2,4 +2,4 @@
 Задания
 | № | Project  | Live Demo  |
 | :-----: | :-: | :-: |
-| 1 | [Task 1 Вёрстка]() |  [Live Demo ]() |
+| 1 | [Task 1 Вёрстка](https://github.com/BogdanZots/Task-1-) |  [Live Demo ](https://bogdanzots.github.io/Task-1-/) |
